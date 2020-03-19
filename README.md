@@ -24,7 +24,7 @@ Understanding of server-side scripting, web application frameworks and web appli
 
 ### Task
 
->Develop an app with your own backend implemented with Node.js. You can also add existing web services / resources in a >novel way. You can use whatever frontend frameworks you like (React, Angular, Bootstrap, jQuery, Ionic, React Native >etc...).
+>Develop an app with your own backend implemented with Node.js. You can also add existing web services / resources in a novel way. You can use whatever frontend frameworks you like (React, Angular, Bootstrap, jQuery, Ionic, React Native etc...).
 >
 >Implement your own backend for the project (GraphQL API)
 
