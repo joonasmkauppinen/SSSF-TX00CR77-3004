@@ -5,5 +5,8 @@
   "repository": "git@github.com:joonasmkauppinen/SSSF-TX00CR77-3004.git",
   "author": "Joonas Kauppinen <joonasm.kauppinen@gmail.com>",
   "license": "UNLICENSED",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
