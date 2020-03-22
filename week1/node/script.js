@@ -1,1 +1,1 @@
-console.log("This is JavaScript!!!");
+console.log("This is Spartta!!!");
