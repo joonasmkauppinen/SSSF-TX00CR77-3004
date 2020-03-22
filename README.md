@@ -1,5 +1,3 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 # Server-Side Scripting Frameworks course
 
 Understanding of server-side scripting, web application frameworks and web application security.
@@ -31,9 +29,3 @@ Understanding of server-side scripting, web application frameworks and web appli
 ### Idea
 
 TBA
-
-## License
-
-This project is licensed under the GPL-3.0 License.
-
-See the [license](https://github.com/joonasmkauppinen/SSSF-TX00CR77-3004/blob/master/LICENSE) for details.
