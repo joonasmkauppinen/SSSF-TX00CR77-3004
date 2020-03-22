@@ -3,8 +3,9 @@ const express = require("express");
 const app = express();
 const port = 3000;
 
-app.get("/cat", (req, res) => {
-  res.send("From this endpoint you can get cats.");
+app.get("/cat/:id", (req, res) => {
+  const { id } = req.params;
+  res.send(`You reqested a cat whose id is ${id}`);
 });
 
 app.post("/cat", (req, res) => {
