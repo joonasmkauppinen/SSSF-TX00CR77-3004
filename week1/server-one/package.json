@@ -1,0 +1,13 @@
+{
+  "name": "server-one",
+  "version": "1.0.0",
+  "description": "sErVeR oNe",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
