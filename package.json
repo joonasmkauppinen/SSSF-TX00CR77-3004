@@ -6,6 +6,9 @@
   "author": "Joonas Kauppinen <joonasm.kauppinen@gmail.com>",
   "license": "UNLICENSED",
   "private": false,
+  "scripts": {
+    "start": "nodemon ./week1/node/script.js"
+  },
   "dependencies": {
     "lodash": "^4.17.15"
   }
