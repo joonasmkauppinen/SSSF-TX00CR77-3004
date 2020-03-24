@@ -7,7 +7,10 @@ const getUserList = (req, res) => {
 };
 
 const getUser = (req, res) => {
-  res.json(users.filter(item => item.id === req.params.id));
+  const byId = item => item.id === req.params.id;
+  const user = users.filter(byId).pop();
+  delete user.password;
+  res.json(user);
 };
 
 module.exports = {
