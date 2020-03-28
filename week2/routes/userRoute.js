@@ -8,7 +8,8 @@ router.get("/", userController.getUserList);
 router.get("/:id", userController.getUser);
 
 router.post("/", (req, res) => {
-  res.send("With this endpoint you can add users.");
+  console.log(JSON.stringify(req.body, null, 2));
+  res.json(req.body);
 });
 
 router.put("/", (req, res) => {
